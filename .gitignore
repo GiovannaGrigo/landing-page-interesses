@@ -6,6 +6,8 @@
 /out-tsc
 /bazel-out
 
+/landing-page-interesses
+
 # Node
 /node_modules
 npm-debug.log
